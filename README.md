@@ -5,6 +5,7 @@ The script is a powerful implementation utilizing Python programming language an
 
 # Essential Requirements for Executing the Python Script: Ensure Smooth Execution!
 Selenium  ->  Install by using (pip3 install selenium)
+
 time      ->  Inbuilt library
 
 # Execution
