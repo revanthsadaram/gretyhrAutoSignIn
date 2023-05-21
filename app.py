@@ -11,7 +11,7 @@ def browser_function(username, password, option):
     driver = webdriver.Chrome()
     
     # In the place of example.com replace with your greythr URL
-    driver.get("https://healtech.greythr.com/")
+    driver.get("https://example.greythr.com/")
     
     #To maximize browser window
     driver.maximize_window()
